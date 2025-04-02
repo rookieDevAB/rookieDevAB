@@ -1,14 +1,16 @@
+<div align="center">
+  <img height="200" src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM2MTUzMDcsIm5iZiI6MTc0MzYxNTAwNywicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDAyVDE3MzAwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQwMWFkOTcwM2I3NGY2OGI5NWJlOGYzZWY1ZWEyOWI0YzI1ZDhkMGIyNDA5Yzg2NmE2YTBjNTE3MTc3MzVlOTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Jy7VUNIr4Ig4zwkbv1Mzl6zoBMhWK1Tj3WILowNjoTw"  />
+</div>
+
+###
+
 <br clear="both">
 
-<img align="right" height="200" src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM2MTUzMDcsIm5iZiI6MTc0MzYxNTAwNywicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDAyVDE3MzAwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQwMWFkOTcwM2I3NGY2OGI5NWJlOGYzZWY1ZWEyOWI0YzI1ZDhkMGIyNDA5Yzg2NmE2YTBjNTE3MTc3MzVlOTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Jy7VUNIr4Ig4zwkbv1Mzl6zoBMhWK1Tj3WILowNjoTw"  />
+<h1 align="center">🚀I'm Abhay Soni !</h1>
 
 ###
 
-<h1 align="left">🚀I'm Abhay Soni !</h1>
-
-###
-
-<div align="left">
+<div align="center">
   <a href="www.linkedin.com/in/contact-abhay" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
