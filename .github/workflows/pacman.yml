@@ -26,17 +26,20 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
+      - name: Debug - Check if Graph Exists
+        run: ls -R dist # Check inside the 'dist' folder
+
       - name: Commit and Push Updated Graph
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Ensure we're on the correct branch
+
           git checkout -B output
           
-          # Add and commit the changes
-          git add pacman-contribution-graph.svg pacman-contribution-graph-dark.svg
+          mv dist/pacman-contribution-graph.svg . || echo "File not found!"
+          mv dist/pacman-contribution-graph-dark.svg . || echo "File not found!"
+          
+          git add pacman-contribution-graph.svg pacman-contribution-graph-dark.svg || echo "Nothing to add"
           git commit -m "Updated Pac-Man contribution graph" || echo "No changes to commit"
 
-          # Push with authentication
           git push origin output --force
