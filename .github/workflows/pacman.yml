@@ -29,6 +29,9 @@ jobs:
       - name: Debug - Check if Graph Exists
         run: ls -R dist # Check inside the 'dist' folder
 
+      - name: Debug - List Generated Files
+        run: ls -R
+
       - name: Commit and Push Updated Graph
         run: |
           git config --global user.name "github-actions[bot]"
